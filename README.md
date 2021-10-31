@@ -1,10 +1,9 @@
 ## Hello World, I'm Gabriel! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-… Front-end Developer 👩‍💻
-<div>
-  <a href="https://github.com/ellen2121">
-  <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielLSobreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLSobreira&layout=compact&langs_count=7&theme=react" />
+
+<div style="display: flex">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielLSobreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLSobreira&layout=compact&langs_count=7&theme=react" />
 
  
 </div>
