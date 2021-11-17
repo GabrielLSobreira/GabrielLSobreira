@@ -1,6 +1,6 @@
 ## Hello World, I'm Gabriel! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-👨‍💻 Web Developer 
+Web Developer 👨‍💻 
 
 Lover of Technology and Coding ❤️
 
