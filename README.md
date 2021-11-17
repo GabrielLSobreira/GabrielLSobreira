@@ -1,8 +1,11 @@
 ## Hello World, I'm Gabriel! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
+👨‍💻 Web Developer 
+
+Lover of Technology and Coding ❤️
 
 <div style="display: flex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielLSobreira&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielLSobreira&theme=react&count_private=true&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLSobreira&layout=compact&langs_count=7&theme=react" />
 
  
