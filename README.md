@@ -5,8 +5,8 @@ Web Developer 👨‍💻
 Lover of Technology and Coding ❤️
 
 <div style="display: flex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielLSobreira&count_private=true&theme=react"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLSobreira&layout=compact&langs_count=7&theme=react" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielLSobreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolandrade1&layout=compact&langs_count=16&theme=react"/>
 
  
 </div>
