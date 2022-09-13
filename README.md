@@ -28,3 +28,5 @@ Lover of Technology and Coding ❤️
   <a href="https://www.linkedin.com/in/gabriel-sobreira-b584a9178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+![Snake animation](https://github.com/GabrielLSobreira/GabrielLSobreira/blob/output/github-contribution-grid-snake.svg)
