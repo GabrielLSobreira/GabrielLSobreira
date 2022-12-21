@@ -4,11 +4,6 @@ Web Developer 👨‍💻
 
 Lover of Technology and Coding ❤️
 
-<div style="display: flex">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielLSobreira&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLSobreira&layout=compact&langs_count=16&theme=react"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
