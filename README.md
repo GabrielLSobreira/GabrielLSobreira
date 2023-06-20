@@ -5,8 +5,7 @@ Web Developer 👨‍💻
 Lover of Technology and Coding ❤️
 
 <div style="display: flex">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielLSobreira&&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielLSobreira&layout=compact&langs_count=16&theme=react"/>
+  <img height="160em" src="https://github-readme-stats-gs.vercel.app/api/top-langs/?username=GabrielLSobreira&layout=compact&langs_count=16&theme=react"/>
 </div>
 
 <div style="display: inline_block"><br>
