@@ -4,7 +4,7 @@
 
 ❤️ Lover of technology and coding.
 
-🏢 Currently working for Squadra Digital.
+🏢 Currently working for AB InBev.
 
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielLSobreira&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLSobreira&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
