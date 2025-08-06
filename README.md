@@ -1,6 +1,6 @@
 ## Hello World, I'm Gabriel! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-👨‍💻 Front-end developer with 3+ years of experience, passionate about creating exceptional user interfaces.
+👨‍💻 Front-end developer with 4+ years of experience, passionate about creating exceptional user interfaces.
 
 ❤️ Lover of technology and coding.
 
